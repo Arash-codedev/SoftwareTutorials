@@ -1,4 +1,4 @@
-# Programming Languages
+# 1. Programming Languages
 
 ## Java
 
@@ -14,39 +14,6 @@
 * Java Testing
 * Java Keytool
 * Javadoc
-* Java Web Development
-* Java Web Applications
-* Java Frameworks
-* Java Spring Framework
-* Java Spring MVC
-* Java Spring Security
-* Java Spring Data JPA
-* SQL for Java
-* Java Batch
-* Java Struts
-* JavaFX
-* Java2D
-* JavaCC
-* Java.net
-* Java DB (Apache Derby - legacy)
-* Java Server
-
-## .NET
-
-* .NET
-* .NET Framework
-* .NET Core
-* C# Programming Language
-* F# Programming Language
-* ASP.NET
-* ASP.NET MVC
-* ASP.NET Web API
-* Entity Framework
-* LINQ
-* ADO.NET
-* WCF
-* WCF REST Service
-* RestSharp
 
 ## Python
 
@@ -54,85 +21,65 @@
 * Python Software Development
 * Python Automation
 * Python Requests
-* Python Datetime Module
-* Python SQLite3
-* Python IDLE
-* Pandas
+* Python Datetime
 * NumPy
+* Pandas
 * Matplotlib
 * Python Data Analysis
-* Python Frameworks
-* Python on Google App Engine
 
-## Ruby
+## JavaScript / TypeScript
 
-* Ruby
-* Ruby on Rails
-* RubyGems
-* RubyMotion
-* RubyMine
+* JavaScript
+* TypeScript
+* JScript
+* JavaScript APIs
+* Core JavaScript
+* JavaScript Object Notation (JSON)
 
+## C / C++
 
-## Other Programming Languages
+* C Programming Language
+* C++ Programming Language
 
-* C
-* C++
+## Other Languages
+
 * Go
 * Rust
-* Scala
 * Kotlin
-* Dart
+* Scala
 * PHP
+* Ruby
+* Dart
 * Lua
 * Swift
-* D
-* Pascal
-* APL
-* FORTRAN
-* CoffeeScript
-* Arduino Programming Language
-* Processing Programming Language
-* Uniface
-* CLIST
-* BASIC
+* C#
 
+---
 
-# Embedded Systems
-
-* Embedded C
-* Embedded C++
-* Embedded SQL
-* Embedded Java
-* Embedded Linux
-* Embedded RTOS
-* Embedded Security
-* Embedded Android
-* Embedded Database
-* Arduino
-
-
-# Backend Development
+# 2. Backend Development
 
 ## Java Backend
 
-* J2EE / Java EE
 * Java Web Development
+* J2EE / Java EE
+* Java Web Applications
+* Spring Framework
+* Spring MVC
 * Spring Boot
+* Spring Security
+* Spring Data JPA
 * Spring WebFlux
-* Spring REST
+* Java REST APIs
 
 ## Python Backend
 
 * Django
-* Django Development
-* Django Admin
-* Django Templates
 * Django REST Framework
 * Flask
 * Flask-RESTful
 * FastAPI
 
-## JavaScript Backend
+## Node.js Backend
 
 * Node.js
 * Deno
@@ -141,115 +88,100 @@
 ## PHP Backend
 
 * PHP
+* Laravel
+* Symfony
 
+---
 
-# Frontend Development
+# 3. Frontend Development
 
-## JavaScript / TypeScript
-
-* JavaScript
-* TypeScript
-* Core JavaScript
-* Vanilla JavaScript
-* Modular JavaScript
-* JavaScript Coding
-* JavaScript API
-* JavaScript MVC
-* JavaScript Design Patterns
-* JavaScript Libraries
-* JavaScript Frameworks
-* JavaScript Integration
-* Redux
-* JavaScript Unit Testing
-* Object-Oriented JavaScript
-* JSON
-* jQuery
-* React
-* React.js
-* Vue.js
-* Angular
-
-## Web Technologies
+## Core Web
 
 * HTML5
-* Front-End Development
-* Web Development
-
-## CSS
-
 * CSS
+* JavaScript
+* JSON
+* Front-End Development
+
+## JavaScript Frameworks
+
+* React
+* React.js
+* Redux
+* Angular
+* Vue.js
+* jQuery
+
+## CSS Frameworks
+
 * Tailwind CSS
+* Bootstrap
 
+## Frontend Testing
 
-# Database
+* JavaScript Unit Testing
+* Jest
+* Cypress
+
+---
+
+# 4. Database & Data Storage
 
 ## Relational Databases
 
+* SQL
 * PostgreSQL
 * IBM Db2
 * DB2 SQL
-* OLE DB
+* Oracle Database
+* SQL Server
+* MySQL
 
 ## NoSQL Databases
 
 * NoSQL
 * Azure Cosmos DB
-* Berkeley DB
+* MongoDB
+* Cassandra
+* Redis
 
 ## Database Tools
 
 * DBeaver
+* DbVisualizer
+* OLE DB
 
+## Legacy Databases
 
-# DevOps & Infrastructure
+* Berkeley DB
+* dBase
 
-## Containers
+---
 
-* Kubernetes
-* Docker
+# 5. API & Software Architecture
 
-## CI/CD
+## API Development
 
-* Azure DevOps
-* Azure Pipelines
-
-## Infrastructure
-
-* Cloud Infrastructure
-* Infrastructure as Code
-
-
-# API & Architecture Concepts
-
-## REST
-
-* Representational State Transfer
-* RESTful Web Services
+* REST
 * RESTful APIs
-* REST API Development
-* REST Architecture
-* REST API Testing
 * REST API Design
-* REST Client
-* RestAssured
-* Restlet Framework
-* JAX-RS
+* REST API Testing
+* REST Clients
 * Retrofit
-* Spring REST
-* Django REST Framework
-* Flask-RESTful
+* JAX-RS
+* RAML
 
+## Architecture
 
-## Microservices
-
-* Microservices Architecture
-* Spring Boot
+* MVC
+* Microservices
 * Cloud-native Applications
-* Database-driven Applications
 * Distributed Systems
+* Event-driven Architecture
 
+---
 
-# Cloud Platforms
+# 6. Cloud Platforms
 
 ## AWS
 
@@ -258,56 +190,101 @@
 * AWS Lambda
 * AWS DynamoDB
 * AWS Redshift
-* AWS Fargate
 * AWS CloudFormation
-* AWS Amplify
+* AWS Fargate
 * AWS AppSync
 * AWS Networking
 * AWS Architecture
 * AWS DevOps
-* AWS Administration
 
+## Microsoft Azure
 
-## Azure
-
-* Microsoft Azure
-* Azure Administration
+* Azure
+* Azure Functions
+* Azure Storage
+* Azure Cosmos DB
 * Azure DevOps
 * Azure Pipelines
-* Azure Storage
-* Azure Blob Storage
-* Azure Cosmos DB
-* Azure Functions
-* Azure App Service
 * Azure Key Vault
 * Azure Monitor
-* Azure Backup
-* Azure Automation
-* Azure Security & Networking (Firewall, ExpressRoute, Front Door, Private Link)
-* Azure IoT (Edge, Central)
-* Azure Migration & Recovery (Migrate, Site Recovery)
-* Azure Management (Advisor, Policy, Blueprints, Local, Stack)
-* Azure Analytics & Data (HDInsight, Databricks)
-* Azure Developer Tools (Repos, Artifacts, Batch, Notebooks, Maps)
+* Azure Kubernetes Service
 
+---
 
-# Mobile Development
+# 7. DevOps & Infrastructure
+
+## Containers
+
+* Docker
+* Kubernetes
+* Helm
+
+## CI/CD
+
+* GitHub Actions
+* Jenkins
+* Azure Pipelines
+* GitLab CI/CD
+
+## Infrastructure as Code
+
+* Terraform
+* CloudFormation
+
+## Monitoring
+
+* Prometheus
+* Grafana
+
+---
+
+# 8. Mobile Development
 
 ## Android
 
 * Android SDK
 * Android Studio
-* Android Applications
-* Android Mobile Applications
-* Android Software Development
 * Android APIs
-* Android Frameworks
-* Android Platforms
+* Android Applications
 * Android Testing
 * Android Security
+* Android Frameworks
 * Android Emulator
-* Android Automation
-* Android UX
-* Android HAL
-* Android Middleware
-* Embedded Android
+
+## Cross-platform
+
+* Flutter
+* React Native
+
+---
+
+# 9. Embedded Systems
+
+## Embedded Programming
+
+* Embedded C
+* Embedded C++
+* Embedded Linux
+* Embedded RTOS
+* Embedded Security
+* Arduino
+
+## Embedded Databases
+
+* Embedded SQL
+* Embedded Database
+
+---
+
+# 10. Software Engineering Concepts
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Design Patterns
+* SOLID Principles
+* Clean Code
+* Unit Testing
+* Integration Testing
+* System Design
+* Git/GitHub
+* Agile Development
