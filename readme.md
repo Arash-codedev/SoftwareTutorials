@@ -288,3 +288,13 @@
 * System Design
 * Git/GitHub
 * Agile Development
+
+---
+
+# 11. Data Science
+
+* [Data Science Lifecycle](./data-science/lifecycle.md)
+* [Model Error & Performance Diagnostics](./data-science/performance.md)
+* [Data science statistics](./data-science/statistics.md)
+* [Machine Learning](./data-science/machine.md)
+* Feature engineering
